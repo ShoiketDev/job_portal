@@ -18,7 +18,7 @@ Email: <b>admin@gmail.com</b>
 <br>
 Pass: <b>admin</b>
 <br>
-<br><br><br><br>
+<br><br>
 <b>API DOCUMENTATION:</b> https://documenter.getpostman.com/view/15391937/UVJeFbfo
 
 
